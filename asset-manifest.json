@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/loh-oliver:8080/tickettunes2/static/css/main.9d203369.css",
-    "main.js": "/loh-oliver:8080/tickettunes2/static/js/main.82fcbe86.js",
+    "main.js": "/loh-oliver:8080/tickettunes2/static/js/main.51303a97.js",
     "static/media/coldplay.png": "/loh-oliver:8080/tickettunes2/static/media/coldplay.9f3b471db7fe754b2268.png",
     "static/media/vibes.png": "/loh-oliver:8080/tickettunes2/static/media/vibes.b7e3f080757bafa719a6.png",
     "static/media/hallyupopfest.png": "/loh-oliver:8080/tickettunes2/static/media/hallyupopfest.072a3acb59108b5c73b4.png",
@@ -72,10 +72,10 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/loh-oliver:8080/tickettunes2/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/loh-oliver:8080/tickettunes2/index.html",
     "main.9d203369.css.map": "/loh-oliver:8080/tickettunes2/static/css/main.9d203369.css.map",
-    "main.82fcbe86.js.map": "/loh-oliver:8080/tickettunes2/static/js/main.82fcbe86.js.map"
+    "main.51303a97.js.map": "/loh-oliver:8080/tickettunes2/static/js/main.51303a97.js.map"
   },
   "entrypoints": [
     "static/css/main.9d203369.css",
-    "static/js/main.82fcbe86.js"
+    "static/js/main.51303a97.js"
   ]
 }
